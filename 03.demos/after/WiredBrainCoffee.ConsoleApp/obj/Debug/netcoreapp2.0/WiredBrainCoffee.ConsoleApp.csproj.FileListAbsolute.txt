@@ -1,0 +1,16 @@
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.deps.json
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.runtimeconfig.json
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.runtimeconfig.dev.json
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.dll
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.pdb
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.Simulators.dll
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.0\WiredBrainCoffee.Simulators.pdb
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.csproj.AssemblyReference.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.AssemblyInfoInputs.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.AssemblyInfo.cs
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.csproj.CoreCompileInputs.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBra.F0C320FF.Up2Date
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.dll
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.pdb
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.0\WiredBrainCoffee.ConsoleApp.genruntimeconfig.cache

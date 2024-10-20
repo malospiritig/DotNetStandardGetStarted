@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;netstandard1.3</TargetFrameworks>
+    <Description>Use this package to simulate a coffee machine</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Wired Brain Coffee</Authors>
+    <PackageIconUrl>https://www.thomasclaudiushuber.com/wiredbraincoffee.png</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WiredBrainCoffee.Storage\WiredBrainCoffee.Storage.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DEMO\\OEC709\\02.DoyNetSatndardGettingStarted\\03.demos\\after\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41AB7EF0-C1F7-4FE5-BB74-F128AB5FE1F8}|WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj|f:\\demo\\oec709\\02.doynetsatndardgettingstarted\\03.demos\\after\\wiredbraincoffee.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AB7EF0-C1F7-4FE5-BB74-F128AB5FE1F8}|WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj|solutionrelative:wiredbraincoffee.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8537932-4AFB-431B-B84C-4EAE110D678B}|WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj|f:\\demo\\oec709\\02.doynetsatndardgettingstarted\\03.demos\\after\\wiredbraincoffee.simulators\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8537932-4AFB-431B-B84C-4EAE110D678B}|WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj|solutionrelative:wiredbraincoffee.simulators\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DEMO\\OEC709\\02.DoyNetSatndardGettingStarted\\03.demos\\after\\WiredBrainCoffee.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.ConsoleApp\\Program.cs",
+              "ToolTip": "F:\\DEMO\\OEC709\\02.DoyNetSatndardGettingStarted\\03.demos\\after\\WiredBrainCoffee.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "WiredBrainCoffee.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:09:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "F:\\DEMO\\OEC709\\02.DoyNetSatndardGettingStarted\\03.demos\\after\\WiredBrainCoffee.Simulators\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "WiredBrainCoffee.Simulators\\CoffeeMachine.cs",
+              "ToolTip": "F:\\DEMO\\OEC709\\02.DoyNetSatndardGettingStarted\\03.demos\\after\\WiredBrainCoffee.Simulators\\CoffeeMachine.cs",
+              "RelativeToolTip": "WiredBrainCoffee.Simulators\\CoffeeMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:06:07.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

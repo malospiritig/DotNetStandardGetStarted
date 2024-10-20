@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WiredBrainCoffee.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "WiredBrainCoffee.Simulators": "1.0.0"
+        },
+        "runtime": {
+          "WiredBrainCoffee.ConsoleApp.dll": {}
+        }
+      },
+      "WiredBrainCoffee.Simulators/1.0.0": {
+        "runtime": {
+          "WiredBrainCoffee.Simulators.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiredBrainCoffee.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WiredBrainCoffee.Simulators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

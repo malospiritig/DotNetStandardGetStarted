@@ -1,0 +1,10 @@
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\bin\Debug\netstandard1.3\WiredBrainCoffee.Simulators.deps.json
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\bin\Debug\netstandard1.3\WiredBrainCoffee.Simulators.dll
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\bin\Debug\netstandard1.3\WiredBrainCoffee.Simulators.pdb
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.csproj.AssemblyReference.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.AssemblyInfoInputs.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.AssemblyInfo.cs
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.csproj.CoreCompileInputs.cache
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.dll
+F:\DEMO\OEC709\02.DoyNetSatndardGettingStarted\03.demos\after\WiredBrainCoffee.Simulators\obj\Debug\netstandard1.3\WiredBrainCoffee.Simulators.pdb
